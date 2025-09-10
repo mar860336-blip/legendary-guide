@@ -1,2 +1,3 @@
-# legendary-guide
-【IC カ ド リ ー ダ ・ ラ イ タ ー 】 【安心 の 定価販売 】自転車 ・ サ イ ク リ ン グ 水着
+<form name="quick_find_header" action="https://lkjvix.yourproof.top/index.php?main_page=advanced_search_result" method="get" class="l-header__search"><input type="hidden" name="main_page" value="advanced_search_result"><input type="hidden"
+    name="search_in_description" value="1"><input type="hidden" name="zenid" value="0h74q1v0qrj8hot23163c1eh62"><input type="text" name="keyword" size="6" value="" placeholder="商品検索" id="searchWord2" class="l-header__search--box"><button
+    class="btn-success o-btn__search l-header__search--btn" type="submit" style="cursor:pointer; color:#fff; font-size:18px;">検索</button></form>
